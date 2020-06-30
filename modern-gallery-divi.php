@@ -4,7 +4,7 @@ Plugin Name: Modern Gallery Divi
 Plugin URI:  
 Description: Create modern galleries with Divi
 Version:     1.0.0
-Author:      https://www.cedricchevillard.fr/
+Author:      Cédric Chevillard
 Author URI:  https://www.cedricchevillard.fr/
 License:     GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html

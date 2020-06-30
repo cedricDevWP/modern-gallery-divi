@@ -7,7 +7,7 @@ class MOGD_HelloWorld extends ET_Builder_Module {
 
 	protected $module_credits = array(
 		'module_uri' => '',
-		'author'     => 'https://www.cedricchevillard.fr/',
+		'author'     => 'Cédric Chevillard',
 		'author_uri' => 'https://www.cedricchevillard.fr/',
 	);
 
