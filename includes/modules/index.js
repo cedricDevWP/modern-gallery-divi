@@ -1,3 +1,8 @@
-import HelloWorld from './HelloWorld/HelloWorld';
+import Gallery from './Gallery/Gallery';
+import Image from './Image/Image';
 
-export default [HelloWorld];
+
+export default [
+    Gallery,
+    Image
+];
